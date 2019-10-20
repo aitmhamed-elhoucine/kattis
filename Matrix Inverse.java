@@ -3,6 +3,7 @@ public class Katis {
     public static void main(String[] args) {
         Scanner sc1 =new Scanner(System.in);
         int k=1;
+		int j=55;
         while(true){
             try{
                 String l1=sc1.nextLine();
