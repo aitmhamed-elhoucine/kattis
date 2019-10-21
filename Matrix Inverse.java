@@ -4,7 +4,10 @@ public class Katis {
         Scanner sc1 =new Scanner(System.in);
         int k=1;
 		int j=50;
+<<<<<<< HEAD
 		int a=0;
+=======
+>>>>>>> master
         while(true){
             try{
                 String l1=sc1.nextLine();
